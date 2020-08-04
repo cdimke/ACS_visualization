@@ -12,7 +12,7 @@ output:
 
 This site houses maps that visualize 
 
-### [Colorado](https://github.com/cdimke/ACS_visualization/CO.html)
+### [Colorado](CO.html)
 
 
 
