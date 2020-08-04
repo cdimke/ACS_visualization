@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.geojson
+.Rproj
+### The Data folders
+./Data/
+./Shiny/Data
