@@ -12,12 +12,8 @@ output:
 
 This site houses maps that visualize 
 
-### Colorado
-```{r maps,echo=FALSE}
-library(tidyverse)
-load('./Maps/CO.RData')
-map
-```
+### [Colorado](https://github.com/cdimke/ACS_visualization/CO.html)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
